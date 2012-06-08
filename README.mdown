@@ -1,0 +1,8 @@
+Cooking Show-Style Live Coding
+===
+
+When live coding during a demo, I like to minimize the amount of typing I need to do. I don't want to put the audience through that!
+
+Chefs on cooking shows (Julia Child, Ming, etc.) solve this problem by cooking while the camera isn't running, either before the show or during breaks in filming.
+
+This repo contains snippets used for cooking-show-style live coding.
