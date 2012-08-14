@@ -1,7 +1,7 @@
 # Snippets for cooking-show-style "live" coding
 # Hello World
   alert = UIAlertView.new
-  alert.message = "Hey 8th Light University!"
+  alert.message = "Hey Chicago CocoaHeads!"
   alert.show
 
 # Rakefile additions for HELLO
